@@ -1,8 +1,13 @@
+import java.util.Scanner;
 public class gitTest4 {
     public static void main(String[] args) {
-        String value = "21132134214";
+
+        Scanner sc = new Scanner(System.in);
+        System.out.println("¬ведите число");
+        String value = sc.nextLine();
+        System.out.println("¬ведите разделитель");
+        String decl =sc.nextLine();;
         String value1;
-        String decl = ",";
         value1 = value.replaceAll("\\B(?=(\\d{3})+(?!\\d))",decl);
         System.out.println(value1);
     }
