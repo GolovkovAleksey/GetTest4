@@ -10,5 +10,6 @@ public class gitTest4 {
         String value1;
         value1 = value.replaceAll("\\B(?=(\\d{3})+(?!\\d))",decl);
         System.out.println(value1);
+        System.out.println("2222");
     }
 }
