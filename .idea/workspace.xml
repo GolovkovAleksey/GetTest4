@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04ea1d3f-e244-4eec-8924-c71d2a1e80ad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gitTest4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test4.iml" afterDir="false" />
+    <list default="true" id="04ea1d3f-e244-4eec-8924-c71d2a1e80ad" name="Changes" comment="test4">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gitTest4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gitTest4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="7766aa2a18d2561d739f63571f6903bd0d353336" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -41,6 +41,11 @@
     "WebServerToolWindowFactoryState": "false"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\test4\src" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.gitTest4">
     <configuration name="gitTest4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="gitTest4" />
@@ -60,6 +65,9 @@
       <list>
         <item itemvalue="Application.gitTest4" />
         <item itemvalue="Application.test4" />
+        <item itemvalue="Application.test4" />
+        <item itemvalue="Application.gitTest4" />
+        <item itemvalue="Application.gitTest4" />
       </list>
     </recent_temporary>
   </component>
@@ -71,8 +79,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652891798967</updated>
-      <workItem from="1652891800276" duration="62000" />
+      <workItem from="1652891800276" duration="1358000" />
     </task>
+    <task id="LOCAL-00001" summary="test4">
+      <created>1652892121423</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652892121423</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,5 +104,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test4" />
+    <option name="LAST_COMMIT_MESSAGE" value="test4" />
   </component>
 </project>
