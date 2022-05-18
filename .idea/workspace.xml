@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04ea1d3f-e244-4eec-8924-c71d2a1e80ad" name="Changes" comment="test4">
+    <list default="true" id="04ea1d3f-e244-4eec-8924-c71d2a1e80ad" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/gitTest4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gitTest4.java" afterDir="false" />
     </list>
@@ -20,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="7766aa2a18d2561d739f63571f6903bd0d353336" />
+        <entry key="$PROJECT_DIR$" value="t4" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -34,13 +34,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\IdeaProjects\test4\src" />
@@ -63,11 +63,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.gitTest4" />
-        <item itemvalue="Application.test4" />
         <item itemvalue="Application.test4" />
         <item itemvalue="Application.gitTest4" />
         <item itemvalue="Application.gitTest4" />
+        <item itemvalue="Application.test4" />
+        <item itemvalue="Application.test4" />
       </list>
     </recent_temporary>
   </component>
