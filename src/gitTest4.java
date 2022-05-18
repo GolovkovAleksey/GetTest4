@@ -3,13 +3,14 @@ public class gitTest4 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
-        System.out.println("Введите число");
+        System.out.println("Г‚ГўГҐГ¤ГЁГІГҐ Г·ГЁГ±Г«Г®");
         String value = sc.nextLine();
-        System.out.println("Введите разделитель");
+        System.out.println("Г‚ГўГҐГ¤ГЁГІГҐ Г°Г Г§Г¤ГҐГ«ГЁГІГҐГ«Гј");
         String decl =sc.nextLine();;
         String value1;
         value1 = value.replaceAll("\\B(?=(\\d{3})+(?!\\d))",decl);
         System.out.println(value1);
         System.out.println("sdd");
+
     }
 }
